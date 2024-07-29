@@ -1,5 +1,7 @@
 名前:Dungeon Explorer
 ジャンル: アドベンチャーゲーム
+開発言語:Python
+使用するライブラリ：Pygame　Twisted　Django　numpy SQLite Tiled Map Editor pandas
 目的: プレイヤーはダンジョン内を探索し、敵を倒しながら部屋を探索しながら隠された宝物を見つけ、報酬をゲットするアドベンチャーゲーム
 1ゲームの基本要素
     テキストベースでは、ない
